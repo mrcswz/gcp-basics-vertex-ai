@@ -1,16 +1,19 @@
 This Repo contains the basics of Vertex AI
 
 
-Data Preparation
+**Data Preparation**
 - Data Uploading
 - Feature Engineering
-Model Training
+
+**Model Training**
 - Model Training (kochen)
 - Model Evaluation (kosten)
-Model Deployment
+
+**Model Deployment**
 
 
 Structured Data - can be put in Tables (numbers and text e.g.)
+
 Unstructured Data - can not be put in Tables (like Images and Videos)
 
 
@@ -47,4 +50,5 @@ Unsupervised learning is data-driven and identifies a pattern (data is unlabeled
 Hyperparameters are the user-defined knobs of a machine, that helps to guide the machine learning progress
 - With AutoML this happens automatically
 
-![Alt text](image.png)
+
+![Alt text](images/supervised_unsupervised.png)
